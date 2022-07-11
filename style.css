@@ -1,0 +1,30 @@
+body{
+    background-color: aquamarine;
+    background-size: cover;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 50px;
+}
+h1{
+    margin-bottom: 10px;
+}
+h2{
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+button{
+    width: 200px;
+    margin-top: 5px;
+    border-radius: 5px;
+    color: white;
+}
+#increment-btn{
+    background-color: blue;
+}
+#save-btn{
+    background-color: rgb(193, 21, 21);
+}
+
+
