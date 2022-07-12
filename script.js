@@ -1,6 +1,7 @@
 let count=0;
 let countE1 =document.getElementById("count-e1");
 let saveE1=document.getElementById("save-e1")
+let totalE1=document.getElementById("total-e1")
 
 function increment(){
     count+=1
@@ -14,3 +15,5 @@ function save(){
     count=0;
 
 }
+clear 
+
